@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "wukanjia"         # 用户名
 UUID = "59e9b257-edf6-47e1-b546-e7e368916f1c"                   # UUID，留空则自动生成
-PORT =                    # Vmess端口，留空或0则自动生成
+PORT = 0                  # Vmess端口，留空或0则自动生成
 DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiN2U2Y2E4Y2EzNDJlMzQxZGZhM2I2Y2YxYWI4N2UwMGUiLCJ0IjoiOWU4ZmY5MTItNzgwYi00MjhlLWE0YmYtYTkxYTJkMWVmYzI2IiwicyI6Ill6YzBZVEV6TkRVdE1qWXhOaTAwTlRJM0xUZzROMk10TkRZeE5qUXhNRGxpWmpVdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
